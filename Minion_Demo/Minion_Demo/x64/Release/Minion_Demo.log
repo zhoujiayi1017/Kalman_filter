@@ -1,0 +1,79 @@
+﻿  Minion_Demo.cpp
+d:\minion_demo\minion_demo\minion_demo.cpp : warning C4819: 该文件包含不能在当前代码页(932)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\minion_demo\minion_demo\minion_demo.cpp(119): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+d:\minion_demo\minion_demo\minion_demo.cpp(120): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+d:\minion_demo\minion_demo\minion_demo.cpp(125): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+d:\minion_demo\minion_demo\minion_demo.cpp(126): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+d:\minion_demo\minion_demo\minion_demo.cpp(141): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+d:\minion_demo\minion_demo\minion_demo.cpp(142): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+d:\minion_demo\minion_demo\minion_demo.cpp(159): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+d:\minion_demo\minion_demo\minion_demo.cpp(208): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+d:\minion_demo\minion_demo\minion_demo.cpp(62): warning C4101: “mean_x1”: 未引用的局部变量
+  正在生成代码
+  All 355 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Minion_Demo.vcxproj -> D:\Minion_Demo\x64\Release\Minion_Demo.exe
