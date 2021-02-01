@@ -12,14 +12,17 @@ https://docs.microsoft.com/ja-jp/visualstudio/releasenotes/vs2017-mac-relnotes
 OpenCV 4.0.0
 https://opencv.org/opencv-4-0/
 
---------------------------------------------------------
-Red rectangle: the result of template matching
 
-Green rectangle: the motion state by Kalman filtering prediction
+
+
 --------------------------------------------------------
+
 ![image](https://github.com/zhoujiayi1017/Kalman_filter/blob/main/Minion_Demo/pic1.png)
+
 --------------------------------------------------------
+
 ![image](https://github.com/zhoujiayi1017/Kalman_filter/blob/main/Minion_Demo/pic2.png)
+
 --------------------------------------------------------
 
 
