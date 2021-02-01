@@ -12,8 +12,8 @@ https://docs.microsoft.com/ja-jp/visualstudio/releasenotes/vs2017-mac-relnotes
 OpenCV 4.0.0
 https://opencv.org/opencv-4-0/
 
-# Red rectangle: the result of template matching
-# Green rectangle: the motion state by Kalman filtering prediction
+### Red rectangle: the result of template matching
+### Green rectangle: the motion state by Kalman filtering prediction
 
 --------------------------------------------------------
 
